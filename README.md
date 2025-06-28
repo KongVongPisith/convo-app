@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Overview Project Hosting
 
-Click this to view [http://localhost:3000](http://localhost:3000).
+Click this to view [convo-app-sepia.vercel.app](convo-app-sepia.vercel.app).
 
 ## Getting Started
 
