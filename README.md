@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Overview Project Hosting
 
-Click this to view [convo-app-sepia.vercel.app](convo-app-sepia.vercel.app)
+Click this to view [https://convo-app-sepia.vercel.app/](https://convo-app-sepia.vercel.app/)
 
 ## Getting Started
 
