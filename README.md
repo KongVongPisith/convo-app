@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Overview Project Hosting
+
+Click this to view [http://localhost:3000](http://localhost:3000).
+
 ## Getting Started
 
 First, run the development server:
